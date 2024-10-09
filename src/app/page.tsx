@@ -2,7 +2,7 @@ import React from 'react';
 
 import Home from '../app/(main)/home/page';
 
-function Main() {
+export function Main():React.JSX.Element {
   return (
     <>
     <div className="min-h-screen">
@@ -12,5 +12,3 @@ function Main() {
     
   )
 }
-
-export default Main;
