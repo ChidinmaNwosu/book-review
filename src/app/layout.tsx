@@ -15,7 +15,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "Bookshelf",
-  description: "A simple book application that aloows users to browse, search, and review books",
+  description: "A simple book application that allows users to browse, search, and review books",
 };
 
 export default function RootLayout({
