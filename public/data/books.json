@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1,
+      "title": "The Collected Regrets Of Clover",
+      "author": "Mikki Brammer",
+      "coverImage": "/images/collected-regrets.png",
+      "description": "The Collected Regrets of Clover follows death doula Clover Brooks as she embarks on a journey of self-discovery, confronting her own fears and regrets. Through helping others in their final moments, she learns to embrace life and find joy."
+    },
+    {
+      "id": 2,
+      "title": "Cinder",
+      "author": "Marissa Meyer",
+      "coverImage": "/images/cinder.png",
+      "description": "A science fiction retelling of the Cinderella fairy tale, set in a futuristic world where humans and androids coexist."
+    },
+    {
+      "id": 3,
+      "title": "Six Crimson Cranes",
+      "author": "Elizabeth Lim",
+      "coverImage": "/images/crimson-cranes.png",
+      "description": "Six Crimson Cranes follows Princess Shiori as she embarks on a magical journey to break a curse that turned her six brothers into cranes and save her kingdom."
+    },
+    {
+      "id": 4,
+      "title": "Deadly",
+      "author": "Naomi Novik",
+      "coverImage": "/images/daedyl.png",
+      "description": "Deadly follows a young girl seeking vengeance against a malevolent witch who destroyed her family, leading her into a perilous journey filled with magic and betrayal."
+    },
+    {
+      "id": 5,
+      "title": "We Should All Be Feminists",
+      "author": "Chimamanda Ngozi Adichie",
+      "coverImage": "/images/feminists.png",
+      "description": "We Should All Be Feminists is a compelling essay by Chimamanda Ngozi Adichie that argues for the necessity of feminism and inclusivity in addressing gender inequality"
+    },
+    {
+      "id": 6,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "coverImage": "/images/great-gatsby.png",
+      "description": "The Great Gatsby is a classic novel that tells the story of Jay Gatsby's obsession with wealth and love in 1920s America, revealing the disillusionment behind the American Dream."
+    },
+    {
+      "id": 7,
+      "title": "Dark and Hollow Star",
+      "author": "Ashley Shuttleworth",
+      "coverImage": "/images/hollow-star.png",
+      "description": "A Dark and Hollow Star follows four teens with hidden powers as they navigate a dangerous world of fae and magic in Toronto, confronting dark forces and unraveling a series of mysterious murders."
+    },
+    {
+      "id": 8,
+      "title": "Legendborn",
+      "author": "Tracy Deonn",
+      "coverImage": "/images/legend-born.png",
+      "description": "Legendborn follows Bree Matthews as she uncovers a secret society linked to Arthurian legends and discovers her own magical abilities while navigating grief and identity."
+    },
+    {
+      "id": 9,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "coverImage": "/images/pride-prejudice.png",
+      "description": "Pride and Prejudice is a classic novel about Elizabeth Bennet's journey through love and social expectations as she confronts her feelings for the proud Mr. Darcy."
+    },
+    {
+      "id": 10,
+      "title": "Shadows of Enternity",
+      "author": "Gregory Benford",
+      "coverImage": "/images/shadow-enternity.png",
+      "description": "Shadows of Eternity follows scientists who confront the challenges of time travel and communication with a dying civilization, exploring the existential themes of humanity and the universe."
+    },
+    {
+      "id": 11,
+      "title": "Shadows in the Mist",
+      "author": "Brian Moreland",
+      "coverImage": "/images/shadow-mist.png",
+      "description": "Shadows in the Mist follows WWII soldiers in New Guinea who confront ancient supernatural horrors while battling the chaos of war."
+    },
+    {
+      "id": 12,
+      "title": "If it Bleeds",
+      "author": "Stephen King",
+      "coverImage": "/images/stephen-king.png",
+      "description": "If It Bleeds is a collection of four novellas by Stephen King, including a gripping tale featuring detective Holly Gibney as she unravels a deadly mystery."
+    },
+    {
+      "id": 13,
+      "title": "The Sunbearer Trials",
+      "author": "Aiden Thomas",
+      "coverImage": "/images/sun-bearer.png",
+      "description": "Sunbearer Trials follows Teo, a young sunbearer, as he faces dangerous challenges in a competition for the sun gods, uncovering secrets and testing his courage along the way."
+    },
+    {
+      "id": 14,
+      "title": "Supernova",
+      "author": "Marissa Meyer",
+      "coverImage": "/images/supernova.png",
+      "description": "Supernova concludes the Renegades trilogy as Nova Artino confronts her past and fights for freedom in a climactic battle between heroes and villains."
+    },
+    {
+      "id": 15,
+      "title": "Thief River Falls",
+      "author": "Brian Freeman",
+      "coverImage": "/images/thief-river.png",
+      "description": "Thief River Falls follows true crime writer Lisa Power as she investigates a mysterious disappearance and uncovers dark secrets in a small Minnesota town."
+    },
+    {
+      "id": 16,
+      "title": "An illusion of Thieves",
+      "author": "Cate Glass",
+      "coverImage": "/images/thieves-illusion.png",
+      "description": "The story follows Romy, a former courtesan to the Shadow Lord, who must rely on her hidden sorcery and newfound allies to stop a plot that threatens civil war."
+    },
+    {
+      "id": 17,
+      "title": "The Way of Rings",
+      "author": "Brandon Sanderson",
+      "coverImage": "/images/way-rings.png",
+      "description": " The Way of Kings is an epic fantasy novel that follows the lives of several characters in the world of Roshar, as they navigate political intrigue, magical powers, and the mysteries of the world."
+    },
+    {
+      "id": 18,
+      "title": "Wayword Son",
+      "author": "Rainbow Rowell",
+      "coverImage": "/images/wayword-son.png",
+      "description": "Wayward Son follows Simon Snow and his friends as they embark on a road trip across America, confronting their pasts and discovering new adventures along the way."
+    },
+    {
+      "id": 19,
+      "title": "Whispers of The Forgotten",
+      "author": "Ismail Ulas",
+      "coverImage": "/images/whispers-forgotten.png",
+      "description": "It's a journey that takes readers through ancient civilizations, lost knowledge, and hidden secrets."
+    },
+    {
+      "id": 20,
+      "title": "To Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "coverImage": "/images/catcher-rye.png",
+      "description": "A novel about a teenager named Holden Caulfield who is expelled from his prep school and wanders around New York City."
+    }
+  ]
+  
